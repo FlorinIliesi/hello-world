@@ -1,3 +1,7 @@
 # hello-world
 # hello v2
-Hi, I'm Florin
+
+I'm developer
+I like coding
+pass
+
